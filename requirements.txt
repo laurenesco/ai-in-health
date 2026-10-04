@@ -1,0 +1,15 @@
+en_core_sci_md==999.9.9
+en_ner_bc5cdr_md==0.5.4
+gensim==4.4.0
+matplotlib==3.11.2
+nltk==3.10.3
+numpy==2.5.3
+pandas==3.0.6
+plotly==7.1.0
+protobuf==7.36.2
+scikit_learn==1.9.1
+scispacy==0.6.2
+seaborn==0.13.2
+spacy==3.7.5
+torch==2.14.1
+transformers==5.18.0
