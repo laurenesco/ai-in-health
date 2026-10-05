@@ -4,3 +4,4 @@ mimic_iv/
 certifications/
 .vscode/
 mimiciii_notes_noteevents_table.csv
+*.pkl
